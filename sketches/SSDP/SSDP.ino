@@ -1,10 +1,9 @@
-#include <credentials.h>
-
 #include <ESP8266WiFi.h>
 #include <ESP8266WebServer.h>
 #include <ESP8266SSDP.h>
 
 //const char* ssid; const char* password
+#include <credentials.h>
 
 ESP8266WebServer HTTP(80);
 
