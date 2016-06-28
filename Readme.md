@@ -6,7 +6,7 @@ Lua
 https://www.gitbook.com/book/smartarduino/user-manual-for-esp-12e-devkit/details
 
 
-Arduino
+Arduino :sparkles:
 -------
 
 https://learn.adafruit.com/adafruit-huzzah-esp8266-breakout/using-arduino-ide
