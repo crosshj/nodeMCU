@@ -19,7 +19,7 @@ UDP / SSDP
 https://thearduinoandme.wordpress.com/tutorials/esp8266-send-receive-binary-data/
 
 
-GOALS / IDEAS
+Goals and Ideas
 -------------
 
 - motion sensor / temp monitor for room presence and logging (use UDP)
