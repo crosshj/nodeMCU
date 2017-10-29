@@ -48,3 +48,9 @@ Temporary Items
 *.exe
 *.zip
 *.pdf
+
+
+sketches/Sonoff-3rdTry/Sonoff-Tasmota-5.8.0/
+sketches/Sonoff-3rdTry/arduino-1.8.4/
+sketches/Sonoff-2ndTry/nodemcu-flasher-master/
+sketches/Sonoff-2ndTry/ESPEASY_R120/
